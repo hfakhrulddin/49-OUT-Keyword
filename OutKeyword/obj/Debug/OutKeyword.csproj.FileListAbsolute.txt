@@ -1,0 +1,6 @@
+C:\Div\Origin\49-OUT-Keyword\OutKeyword\bin\Debug\OutKeyword.exe.config
+C:\Div\Origin\49-OUT-Keyword\OutKeyword\bin\Debug\OutKeyword.exe
+C:\Div\Origin\49-OUT-Keyword\OutKeyword\bin\Debug\OutKeyword.pdb
+C:\Div\Origin\49-OUT-Keyword\OutKeyword\obj\Debug\OutKeyword.csprojResolveAssemblyReference.cache
+C:\Div\Origin\49-OUT-Keyword\OutKeyword\obj\Debug\OutKeyword.exe
+C:\Div\Origin\49-OUT-Keyword\OutKeyword\obj\Debug\OutKeyword.pdb
